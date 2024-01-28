@@ -1,0 +1,19 @@
+Changelog
+---------
+
+2.0.1
+
+* Support for PHP 8.3.
+
+2.0.0
+
+* Codebase modernization (PHP namespaces, Composer, etc.).
+
+1.2.0
+
+* Fixed error in serialized list of positive words.
+
+1.1.0
+
+* Various improvements from Mark-H (https://github.com/Mark-H/).
+* Load data from serialized PHP files instead of a database.
